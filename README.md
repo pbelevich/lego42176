@@ -8,6 +8,8 @@ Uses [LeRobot](https://github.com/huggingface/lerobot) framework with an ACT (Ac
 
 Trained model autonomously driving the car into the garage:
 
+https://github.com/user-attachments/assets/6e38d879-f9b4-4064-92a1-30522fcc79a6
+
 https://github.com/user-attachments/assets/abc53f72-d04d-47e7-a700-f97a95772a9e
 
 https://github.com/user-attachments/assets/3718ab95-e469-49fc-a886-413884e9c95c
@@ -115,10 +117,6 @@ Let the trained model drive the car:
 ```bash
 python inference.py outputs/train/checkpoints/050000/pretrained_model
 ```
-
-
-https://github.com/user-attachments/assets/2bd26580-371b-4977-aed5-84a944e615e6
-
 
 
 | Key | Action |
