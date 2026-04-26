@@ -8,15 +8,9 @@ Uses [LeRobot](https://github.com/huggingface/lerobot) framework with an ACT (Ac
 
 Trained model autonomously driving the car into the garage:
 
-https://github.com/user-attachments/assets/example1
+https://github.com/user-attachments/assets/abc53f72-d04d-47e7-a700-f97a95772a9e
 
-https://github.com/user-attachments/assets/example2
-
-Screen recording of the inference UI:
-
-https://github.com/user-attachments/assets/example3
-
-> Replace the placeholder video URLs above: edit this README on GitHub, drag & drop the files from [`example_videos/`](example_videos/) into the editor, and GitHub will generate the embed URLs.
+https://github.com/user-attachments/assets/3718ab95-e469-49fc-a886-413884e9c95c
 
 ## Dataset
 
