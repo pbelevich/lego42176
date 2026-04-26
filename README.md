@@ -116,6 +116,11 @@ Let the trained model drive the car:
 python inference.py outputs/train/checkpoints/050000/pretrained_model
 ```
 
+
+https://github.com/user-attachments/assets/2bd26580-371b-4977-aed5-84a944e615e6
+
+
+
 | Key | Action |
 |-----|--------|
 | Enter | Start / stop autonomous driving |
