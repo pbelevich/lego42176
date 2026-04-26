@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/3718ab95-e469-49fc-a886-413884e9c95c
 
 The recorded dataset (100 episodes, 12k frames, 13 min of driving) is published on HuggingFace:
 
-**[pbelevich/lego42176_garage_parking]([https://huggingface.co/datasets/pbelevich/lego42176_garage_parking](https://huggingface.co/spaces/lerobot/visualize_dataset?path=%2Fpbelevich%2Flego42176_garage_parking%2Fepisode_0))**
+**[pbelevich/lego42176_garage_parking](https://huggingface.co/spaces/lerobot/visualize_dataset?path=%2Fpbelevich%2Flego42176_garage_parking%2Fepisode_0)**
 
 ```python
 from lerobot.datasets.lerobot_dataset import LeRobotDataset
